@@ -1,5 +1,5 @@
 const expect = require('chai').expect
-const { describe, it } = require('mocha')
+
 const calculateTotal = require('./index')
 
 describe('Checkout', () => {
